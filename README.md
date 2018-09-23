@@ -40,9 +40,7 @@ Open with cmd php svscanner.php
 - FaturFreak
 
 ## Article 
-- [blog post][https://www.linuxsec.org/2018/09/svscanner.html]
-- https://www.kitploit.com/2018/09/svscanner-scanner-vulnerability-and.html
-- http://www.prodefence.org/svscanner-scanner-vulnerability-and-massive-exploit/
+- [!blog post][https://www.linuxsec.org/2018/09/svscanner.html]
 
 ## Want to contribute
 
