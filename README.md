@@ -32,10 +32,9 @@ Open with cmd php svscanner.php
 
 ## Credits
 
-- Thanks to allah
-- Eka Syahwan (Creator) https:/bugrecon.or.id
-- Edo Maland (Powerstager) https://github.com/Screetsec
-- Jack Wilder admin in https://www.linuxsec.org
+- [Eka Syahwan](https:/bugrecon.or.id) 
+- [Edo Maland](https://github.com/Screetsec)
+- [LinuxSec](https://www.linuxsec.org)
 - Pak Haxor 
 - FaturFreak
 
