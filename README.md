@@ -18,7 +18,9 @@ Minimum requirement for SVScanner is PHP 7.0
 
 ## Getting Started with Linux
 ```git clone https://github.com/radenvodka/SVScanner.git```
+
 ```cd SVScanner```
+
 ```php svscanner.php```
 
 ## Getting Started with Windows 
@@ -43,8 +45,7 @@ Minimum requirement for SVScanner is PHP 7.0
 
 ## Want to contribute
 
-send the target live and what exploits are used.
-then send to maunikah1337@gmail.com
+Send the live target and what exploits are used to maunikah1337@gmail.com
 
 ## Disclaimer
 Note: modifications, changes, or changes to this code can be accepted, however, every public release that uses this code must be approved by writing this tool (Eka S)
