@@ -13,6 +13,7 @@ SVScanner adalah tool yang dibuat dengan bahasa pemrograman PHP oleh Eka Syahwan
 ## Dependencies :
 1. ```php-curl```
 2. ```php-cli```
+
 Minimum requirement for SVScanner is PHP 7.0
 
 ## Getting Started with Linux
