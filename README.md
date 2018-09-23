@@ -41,7 +41,7 @@ Open with cmd php svscanner.php
 ## Article 
 - [Mencari Kerentanan dan Melakukan Massive Exploit pada WordPress dengan SVScanner](https://www.linuxsec.org/2018/09/svscanner.html)
 
-## Want to contribute
+## Contribute
 
 Send the live target and what exploits are used to maunikah1337@gmail.com
 
