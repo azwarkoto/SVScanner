@@ -40,7 +40,7 @@ Open with cmd php svscanner.php
 - FaturFreak
 
 ## Article 
-- [!blog post][https://www.linuxsec.org/2018/09/svscanner.html]
+- [Mencari Kerentanan dan Melakukan Massive Exploit pada WordPress dengan SVScanner](https://www.linuxsec.org/2018/09/svscanner.html)
 
 ## Want to contribute
 
