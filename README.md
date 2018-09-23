@@ -17,11 +17,11 @@ SVScanner adalah tool yang dibuat dengan bahasa pemrograman PHP oleh Eka Syahwan
 Minimum requirement for SVScanner is PHP 7.0
 
 ## Getting Started with Linux
-```git clone https://github.com/radenvodka/SVScanner.git```
-
-```cd SVScanner```
-
-```php svscanner.php```
+~~~
+git clone https://github.com/radenvodka/SVScanner.git
+cd SVScanner
+php svscanner.php
+~~~
 
 ## Getting Started with Windows 
 1. ```Download Xampp (PHP7)```
