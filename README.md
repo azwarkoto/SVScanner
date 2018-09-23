@@ -11,8 +11,8 @@ Is a tool for scanning and massive exploits. Our tools target several open sourc
 SVScanner adalah tool yang dibuat dengan bahasa pemrograman PHP oleh Eka Syahwan (radenvodka). Tool ini ditujukan untuk melakukan scanning vulnerability dan juga mengeksploitasi kerentanan pada target. Disebut massive karena kita bisa melakukan scan secara "besar-besaran". Kita bisa memasukkan ratusan bahkan jutaan list target sekaligus. Cocok dikombinasikan dengan tools reverse-ip.
 
 ## Dependencies :
-1. ```php-curl```
-2. ```php-cli```
+- ```php-curl```
+- ```php-cli```
 
 Minimum requirement for SVScanner is PHP 7.0
 
