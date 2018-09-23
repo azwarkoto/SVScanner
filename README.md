@@ -8,7 +8,7 @@
 Is a tool for scanning and massive exploits. Our tools target several open source cms.
 
 ---
-SVScanner adalah tool yang dibuat dengan bahasa pemrograman PHP oleh **Eka Syahwan** (radenvodka). Tool ini ditujukan untuk melakukan scanning vulnerability dan juga mengeksploitasi kerentanan pada target. Disebut massive karena kita bisa melakukan scan secara "besar-besaran". Kita bisa memasukkan ratusan bahkan jutaan list target sekaligus. Cocok dikombinasikan dengan tools reverse-ip.
+SVScanner is a tool made with the PHP programming language by **Eka Syahwan** (radenvodka). This tool is intended to scan vulnerabilities and also exploit the target vulnerabilities. It is called massive because we can scan it "massively". We can enter hundreds or even millions list of target at once. Suitable in combination with **reverse-ip** tools.
 
 ## Dependencies :
 - ```php-curl```
@@ -31,7 +31,6 @@ Open with cmd php svscanner.php
 ~~~
 
 ## Credits
-
 - [Eka Syahwan](https:/bugrecon.or.id) 
 - [Edo Maland](https://github.com/Screetsec)
 - [LinuxSec](https://www.linuxsec.org)
@@ -40,9 +39,9 @@ Open with cmd php svscanner.php
 
 ## Article 
 - [Mencari Kerentanan dan Melakukan Massive Exploit pada WordPress dengan SVScanner](https://www.linuxsec.org/2018/09/svscanner.html)
+- [SVScanner – Scanner Vulnerability And Massive Exploit](https://www.kitploit.com/2018/09/svscanner-scanner-vulnerability-and.html)
 
 ## Contribute
-
 Send the live target and what exploits are used to maunikah1337@gmail.com
 
 ## Disclaimer
