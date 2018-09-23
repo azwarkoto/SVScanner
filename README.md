@@ -24,10 +24,11 @@ php svscanner.php
 ~~~
 
 ## Getting Started with Windows 
-1. ```Download Xampp (PHP7)```
-2. ```Download SVScanner : https://github.com/radenvodka/SVScanner/releases```
-3. ```and open with cmd php svscanner.php```
-
+~~~
+Download Xampp (PHP7)
+Download SVScanner : https://github.com/radenvodka/SVScanner/releases
+Open with cmd php svscanner.php
+~~~
 
 ## Credits
 
