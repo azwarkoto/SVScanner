@@ -1,4 +1,4 @@
-# SVScanner - Scanner Vulnerability And MaSsive Exploit.
+# SVScanner - Scanner Vulnerability And Massive Exploit.
 
 [![Version](https://img.shields.io/badge/SVScanner-1.2-brightgreen.svg?maxAge=259200)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
@@ -10,19 +10,21 @@ Is a tool for scanning and massive exploits. Our tools target several open sourc
 ---
 SVScanner adalah tool yang dibuat dengan bahasa pemrograman PHP oleh Eka Syahwan (radenvodka). Tool ini ditujukan untuk melakukan scanning vulnerability dan juga mengeksploitasi kerentanan pada target. Disebut massive karena kita bisa melakukan scan secara "besar-besaran". Kita bisa memasukkan ratusan bahkan jutaan list target sekaligus. Cocok dikombinasikan dengan tools reverse-ip.
 
+## Dependencies :
+1. ```php-curl```
+2. ```php-cli```
+Minimum requirement for SVScanner is PHP 7.0
+
 ## Getting Started with Linux
-1. ```git clone https://github.com/radenvodka/SVScanner.git```
-2. ```cd SVScanner```
-3. ```php svscanner.php```
+```git clone https://github.com/radenvodka/SVScanner.git```
+```cd SVScanner```
+```php svscanner.php```
 
 ## Getting Started with Windows 
 1. ```Download Xampp (PHP7)```
 2. ```Download SVScanner : https://github.com/radenvodka/SVScanner/releases```
 3. ```and open with cmd php svscanner.php```
 
-## Systems we recommend :
-1. ```PHP 7 (version and up)```
-2. ```Install Modules PHP : php-cli & php-curl for linux```
 
 ## Credits
 
